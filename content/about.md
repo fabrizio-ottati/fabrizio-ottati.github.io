@@ -9,10 +9,10 @@ science and computers.
 
 I moved to [Torino](https://en.wikipedia.org/wiki/Turin) for my studies. Here I
 did my Ph.D. in electronics engineering, under the supervision of Professor
-Luciano Lavagno and Professor Mario R. Casue, working on high level
+Luciano Lavagno and Professor Mario R. Casu, working on high level
 synthesis of digital circuits and deep learning acceleration on FPGAs. 
 
-Now I am working as AI/ML Processor Engineer at [NXP](https://www.nxp.com).
+Now I am working as GPUAI compiler engineer at [Qualcomm](https://www.qualcomm.com).
 
 ![Artù and Merlino](/images/about/gattacci.png)
 
@@ -21,12 +21,17 @@ I have two beautiful cats, Artù and Merlino. I love them. A lot.
 My main areas of interest are:
 * deep learning.
 * computer architecture.
+* compilers.
+* programming languages.
 * computer science (still trying to finish a proper algorithms and data
   structures course since 2020).
 
 # Career 
 
-* AI/ML Processor Engineer, NXP, Jan 2024 - ongoing.
+* Staff GPUAI Engineer, Qualcomm, Mar 2026 - ongoing.
+* Senior AI/ML Processor Architect, NXP, Apr 2025 - Feb 2026.
+* Senior AI/ML Processor Engineer, NXP, Oct 2024 - Apr 2025.
+* AI/ML Processor Engineer, NXP, Jan 2024 - Oct 2024.
 * Ph.D. in Electrical, Electronic and Telecommunications Engineering,
   Politecnico di Torino, Nov 2020 - Dec 2023.
   * Visiting researcher in [Charlotte Frenkel](https://chfrenkel.github.io/)'s
@@ -38,34 +43,28 @@ My main areas of interest are:
 
 # Publications
 
+## 2025
+
+* [The neurobench framework for benchmarking neuromorphic computing algorithms
+  and systems](https://doi.org/10.1038/s41467-025-56739-4), Yik et al.,
+  *Nature Communications*, 16, 1545.
+* [SILVIA: Automated Superword-Level Parallelism Exploitation via HLS-specific
+  LLVM Passes for Compute-Intensive FPGA Accelerators](https://doi.org/10.1145/3705324),
+  Giovanni Brignone, Roberto Bosio, **Fabrizio Ottati**, Claudio Sansoè, and
+  Luciano Lavagno, *ACM Transactions on Reconfigurable Technology and Systems*,
+  18(2).
+* [eIQ Neutron: Redefining Edge-AI Inference with Integrated NPU and Compiler
+  Innovations](https://arxiv.org/abs/2509.14388), Lennart Bamberg, Filippo
+  Minnella, Roberto Bosio, **Fabrizio Ottati**, Yuebin Wang, Jongmin Lee,
+  Luciano Lavagno, and Adam Fuks (arXiv preprint).
+
 ## 2023
 
-* [[IEEE-JETCAS](https://arxiv.org/abs/2306.15749)] *To Spike or Not To Spike: A
-  Digital Hardware Perspective on Deep Learning Acceleration*, Fabrizio Ottati
-  et al.
-
-## 2021 
-
-* [[ArXiv](https://arxiv.org/abs/2304.04995)] *Custom Memory Design for
-  Logic-in-Memory: Drawbacks and Improvements over Conventional Memories*,
-  Fabrizio Ottati et al.
-
-# Academic service 
-
-## Reviewer: journals 
-
-- IEEE Transactions on Circuits and Systems I: Regular Papers.
-- IEEE Journal on Emerging and Selected Topics in Circuits and Systems.
-- IEEE Transactions on Biomedical Circuits and Systems.
-- IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems.
-
-## Reviewer: conferences
-
-- ICONS, International Conference on Neuromorphic Systems.
-- PRIME, International Conference on Ph.D. Research in Microelectronics and
-  Electronics.
-- NeuroEdge workshop 2023.
-- ISCAS, International Symposium on Circuits And Systems.
+* [To Spike or Not To Spike: A Digital Hardware Perspective on Deep Learning
+  Acceleration](https://doi.org/10.1109/JETCAS.2023.3330432), **Fabrizio
+  Ottati**, Chang Gao, Qinyu Chen, Giovanni Brignone, Mario R. Casu, Jason K.
+  Eshraghian, and Luciano Lavagno, *IEEE Journal on Emerging and Selected Topics
+  in Circuits and Systems*, 13(4), 1015–1025.
 
 # Credits
 
