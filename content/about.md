@@ -1,5 +1,6 @@
---- 
-title: 'About' 
+---
+title: About
+layout: standalone
 ---
 
 I come from a 
@@ -26,7 +27,7 @@ My main areas of interest are:
 * computer science (still trying to finish a proper algorithms and data
   structures course since 2020).
 
-# Career 
+## Career
 
 * Staff GPUAI Engineer, Qualcomm, Mar 2026 - ongoing.
 * Senior AI/ML Processor Architect, NXP, Apr 2025 - Feb 2026.
@@ -41,9 +42,9 @@ My main areas of interest are:
 * Bachelor of Science in Electronic Engineering, Politecnico di Torino,
   2014-2017. Grade: 108/110.
 
-# Publications
+## Publications
 
-## 2025
+### 2025
 
 * [The neurobench framework for benchmarking neuromorphic computing algorithms
   and systems](https://doi.org/10.1038/s41467-025-56739-4), Yik et al.,
@@ -58,7 +59,7 @@ My main areas of interest are:
   Minnella, Roberto Bosio, **Fabrizio Ottati**, Yuebin Wang, Jongmin Lee,
   Luciano Lavagno, and Adam Fuks (arXiv preprint).
 
-## 2023
+### 2023
 
 * [To Spike or Not To Spike: A Digital Hardware Perspective on Deep Learning
   Acceleration](https://doi.org/10.1109/JETCAS.2023.3330432), **Fabrizio
@@ -66,7 +67,7 @@ My main areas of interest are:
   Eshraghian, and Luciano Lavagno, *IEEE Journal on Emerging and Selected Topics
   in Circuits and Systems*, 13(4), 1015–1025.
 
-# Credits
+## Credits
 
 The ONM logo has been designed by [Gregor Lenz](https://lenzgregor.com) for the
 [Open Neuromorphic](https://open-neuromorphic.org) organisation.
